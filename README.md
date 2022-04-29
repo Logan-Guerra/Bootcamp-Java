@@ -8,7 +8,7 @@
 &nbsp; <br>
 Immersive Full-Stack training program (bootcamp) in:
 - Web Fundamentals
-- Python Stack (using Django)
+- Python Stack (using Django and Flask)
 - Java Stack (using Spring Boot)
 - MERN Stack
 <br>
